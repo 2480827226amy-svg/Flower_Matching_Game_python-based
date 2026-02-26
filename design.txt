@@ -1,0 +1,20 @@
+User persona:
+1. Julia is a Smith College student who doesn't listen to lecturs and always surfs on the Internet during classess. 
+College students are especially good at using the Internet, as they access Internet for various purposes including searching academic resources and entertainment.
+She wants to interact with our project because it is an easy game and she can play during classes.
+2. Steve is a STEM guy working in Google who lost most of his haris and always stays up late to do his work. He only have leisure time when using the restroom.
+Steve uses a lot of technology is daily life because he is working in this area.
+Steve may want to play the game because the things he interacts in daily life is complex and he wants to play some simple thing for fun.
+3. George is a 5-year-dole boy who is travelling fifteen hours to US, and he is always asking how much time left and crying. Only games can make him quiet.
+George have very few opportunities to access technology because his parents may be limiting his screen time to protect his eyesight. 
+George wants to play this gameb because he is on a plane and the game does not require WIFI to play and it's a good tool to kill time.
+
+How individual components of the project are connected with each other:
+First, we use opening() to draw our opening page, and it we click in the region of the start bottom, we will  run the level() function to chosse the level of our game. 
+After we click on the levels bottom,we will go into each level and play the game. After we game, we can choose either exit the game or choose another level.
+
+Rubric:
+1. we use random to randomize the initial positions of flowers
+2. we use dictionary to help us organize the information of the flower list and update the flower list
+3. we use coordinates to locate the flowers, which are creative methods to determine whether the colors of flowers in one pot is the same
+4. we clearly separate chunks of codes of different purposes into distinct files, which is easy to read and understand

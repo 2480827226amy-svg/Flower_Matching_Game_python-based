@@ -1,0 +1,14 @@
+Team information: 4A Amy Tang and Selina Fang
+Project Name: Chahua
+
+List of files:
+1. opening.py: the opening page including a start buttom to start the entire game.
+2. main.py: where we run the game
+3. levels.py: the level page with 3 levels for users to choose from
+4. level1.py: the first level of game and the game logic
+5. level2.py: the second level of game and the game logic
+6. level3.py: he third level of game and the game logic
+
+How to run and interaction:
+1. run the main file
+2. according to the instruction, the user should first click start to start the game and choose from three levels. Entering the game page, the user will see a line of instruction at the top of the page and the user should click the two flowers they want to exchange. They'll win the game if they can place all the flowers of same color in one pot before the using up the steps.
